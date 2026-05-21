@@ -10,9 +10,9 @@ The Microsoft Graph PowerShell module has replaced the older individual modules 
 
 | Script | What it does |
 |--------|-------------|
-| [Get-UsersWithoutMFA.ps1](./Get-UsersWithoutMFA.ps1) | Report all users who do not have MFA configured |
-| [Set-BulkLicence.ps1](./Set-BulkLicence.ps1) | Assign a licence to multiple users from a CSV |
-| [Invoke-Offboarding.ps1](./Invoke-Offboarding.ps1) | Disable account, revoke sessions, and remove licences for a departing user |
+| [Get-UsersWithoutMFA.ps1](./Get-UsersWithoutMFA.ps1) | Report all users without MFA |
+| [Set-BulkLicence.ps1](./Set-BulkLicence.ps1) | Assign licences from CSV |
+| [Invoke-Offboarding.ps1](./Invoke-Offboarding.ps1) | Disable account and revoke access |
 
 ---
 
